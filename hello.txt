@@ -1,1 +1,2 @@
-hello.txt
+Hello, World!
+Hello, Git!
